@@ -1,1 +1,14 @@
-# CPE-RotatingSentences_490
+# Rotating Sentences 
+
+在這個問題中你必須將數列文字往順時針方向旋轉90度。也就是說將原本由左到右，由上到下的句子輸出成由上到下，由右到左。 
+
+輸入最多不會超過100列，每列最多不會超過100個字元。
+合法的字元包括：換行，空白，所有的標點符號，數字，以及大小寫字母。（注意：Tabs並不算是合法字元。）
+
+最後一列輸入必須垂直輸出在最左邊一行，輸入的第一列必須垂直輸出在最右邊一行。 
+
+*注意：當輸入完畢後，因程式由一無限迴圈構成，因此若是 macos 請輸入 control + D ; 若是 Windows 請輸入 control + Z，方可停止，並順利印出。但於瘋狂程式中之測試將會自動協助停止，故不需額外動作。
+
+# Output example
+* 已成功通過「瘋狂程設」閱卷系統批改測試 
+![image](https://github.com/Samuelchi861008/CPE-RotatingSentences_490/blob/master/結果.png)
